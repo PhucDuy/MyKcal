@@ -98,5 +98,5 @@ ENV/
 .DS_Store
 
 darknet/
-Dataset/
+datasets/
 
